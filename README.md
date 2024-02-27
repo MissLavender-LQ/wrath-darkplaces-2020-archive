@@ -1,3 +1,4 @@
+# [Wayback Machine Archive of KillPixelGames Darkplaces Repo](https://web.archive.org/web/20230713022525/https://github.com/KillPixelGames/wrath-darkplaces)
 # wrath-darkplaces
 
 This is the fork of [LordHavoc's DarkPlaces Quake engine](https://icculus.org/twilight/darkplaces/) that is used in the game [WRATH: Aeon of Ruin](http://wrath.game/).
